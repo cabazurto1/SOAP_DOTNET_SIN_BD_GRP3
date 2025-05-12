@@ -188,7 +188,7 @@ namespace ConversionSevicio
         {
             if ((endpointConfiguration == EndpointConfiguration.BasicHttpBinding_IConversionControlador))
             {
-                return new System.ServiceModel.EndpointAddress("http://localhost:55325/ec.edu.monster.controlador/ConversionControlador.svc");
+                return new System.ServiceModel.EndpointAddress("http://localhost:8092/ec.edu.monster.controlador/ConversionControlador.svc");
             }
             throw new System.InvalidOperationException(string.Format("No se pudo encontrar un punto de conexión con el nombre \"{0}\".", endpointConfiguration));
         }

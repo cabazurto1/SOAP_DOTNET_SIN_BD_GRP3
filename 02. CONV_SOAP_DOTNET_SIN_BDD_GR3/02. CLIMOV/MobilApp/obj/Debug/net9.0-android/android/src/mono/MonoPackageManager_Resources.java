@@ -1,8 +1,8 @@
 package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
-		/* We need to ensure that "MobilApp.dll" comes first in this list. */
-		"MobilApp.dll",
+		/* We need to ensure that "02. CLIMOV.dll" comes first in this list. */
+		"02. CLIMOV.dll",
 		"Microsoft.Extensions.ObjectPool.dll",
 		"Microsoft.IdentityModel.Logging.dll",
 		"Microsoft.IdentityModel.Protocols.WsTrust.dll",
@@ -84,7 +84,9 @@ public class MonoPackageManager_Resources {
 		"System.ServiceModel.Primitives.resources.dll",
 		"System.ServiceModel.Primitives.resources.dll",
 		"System.ServiceModel.Primitives.resources.dll",
-		"_01.SERVIDOR.dll",
+		"Microsoft.Maui.Controls.HotReload.Forms.dll",
+		"Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll",
+		"Microsoft.VisualStudio.DesignTools.TapContract.dll",
 		"_Microsoft.Android.Resource.Designer.dll",
 	};
 	public static String[] Dependencies = new String[]{

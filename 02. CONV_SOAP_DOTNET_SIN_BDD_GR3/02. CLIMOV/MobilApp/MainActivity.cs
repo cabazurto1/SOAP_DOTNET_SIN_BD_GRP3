@@ -4,11 +4,11 @@ using Android.Widget;
 using Android.Content;
 
 // Importa solo lo necesario
-using MobilApp.com.edu.monster.controlador;
-using MobilApp.com.edu.monster.modelo;
-using MobilApp.com.edu.monster.vista;
+using _02._CLIMOV.com.edu.monster.controlador;
+using _02._CLIMOV.com.edu.monster.modelo;
+using _02._CLIMOV.com.edu.monster.vista;
 
-namespace MobilApp
+namespace _02._CLIMOV
 {
     [Activity(Label = "MobilApp", MainLauncher = true)]
     public class MainActivity : Activity

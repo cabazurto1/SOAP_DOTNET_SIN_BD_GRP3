@@ -15,7 +15,7 @@ namespace ServiceReference1
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.Runtime.Serialization.DataContractAttribute(Name="Request", Namespace="http://schemas.datacontract.org/2004/07/_01.SERVIDOR.ec.edu.monster.modelo")]
-    public partial class Request : object, System.ComponentModel.INotifyPropertyChanged
+    public partial class Request : object
     {
         
         private string destinoField;
@@ -33,11 +33,7 @@ namespace ServiceReference1
             }
             set
             {
-                if ((object.ReferenceEquals(this.destinoField, value) != true))
-                {
-                    this.destinoField = value;
-                    this.RaisePropertyChanged("destino");
-                }
+                this.destinoField = value;
             }
         }
         
@@ -50,11 +46,7 @@ namespace ServiceReference1
             }
             set
             {
-                if ((object.ReferenceEquals(this.origenField, value) != true))
-                {
-                    this.origenField = value;
-                    this.RaisePropertyChanged("origen");
-                }
+                this.origenField = value;
             }
         }
         
@@ -67,22 +59,7 @@ namespace ServiceReference1
             }
             set
             {
-                if ((this.valorField.Equals(value) != true))
-                {
-                    this.valorField = value;
-                    this.RaisePropertyChanged("valor");
-                }
-            }
-        }
-        
-        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
-        
-        protected void RaisePropertyChanged(string propertyName)
-        {
-            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
-            if ((propertyChanged != null))
-            {
-                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+                this.valorField = value;
             }
         }
     }
@@ -90,7 +67,7 @@ namespace ServiceReference1
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.Runtime.Serialization.DataContractAttribute(Name="Response", Namespace="http://schemas.datacontract.org/2004/07/_01.SERVIDOR.ec.edu.monster.modelo")]
-    public partial class Response : object, System.ComponentModel.INotifyPropertyChanged
+    public partial class Response : object
     {
         
         private string mensajeField;
@@ -106,11 +83,7 @@ namespace ServiceReference1
             }
             set
             {
-                if ((object.ReferenceEquals(this.mensajeField, value) != true))
-                {
-                    this.mensajeField = value;
-                    this.RaisePropertyChanged("mensaje");
-                }
+                this.mensajeField = value;
             }
         }
         
@@ -123,22 +96,7 @@ namespace ServiceReference1
             }
             set
             {
-                if ((this.valorConvertidoField.Equals(value) != true))
-                {
-                    this.valorConvertidoField = value;
-                    this.RaisePropertyChanged("valorConvertido");
-                }
-            }
-        }
-        
-        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
-        
-        protected void RaisePropertyChanged(string propertyName)
-        {
-            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
-            if ((propertyChanged != null))
-            {
-                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+                this.valorConvertidoField = value;
             }
         }
     }
@@ -230,7 +188,7 @@ namespace ServiceReference1
         {
             if ((endpointConfiguration == EndpointConfiguration.BasicHttpBinding_IConversionControlador))
             {
-                return new System.ServiceModel.EndpointAddress("http://192.168.1.19:55325/ec.edu.monster.controlador/ConversionControlador.svc");
+                return new System.ServiceModel.EndpointAddress("http://192.168.1.15:8092/ec.edu.monster.controlador/ConversionControlador.svc");
             }
             throw new System.InvalidOperationException(string.Format("No se pudo encontrar un punto de conexión con el nombre \"{0}\".", endpointConfiguration));
         }

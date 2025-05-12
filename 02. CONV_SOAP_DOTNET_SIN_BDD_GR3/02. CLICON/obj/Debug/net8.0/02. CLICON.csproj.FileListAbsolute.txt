@@ -289,3 +289,101 @@ D:\Descargas\CONV_SOAP_DOTNET_SIN_BDD\CONV_SOAP_DOTNET_SIN_BDD\02. CONV_SOAP_DOT
 D:\Descargas\CONV_SOAP_DOTNET_SIN_BDD\CONV_SOAP_DOTNET_SIN_BDD\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.pdb
 D:\Descargas\CONV_SOAP_DOTNET_SIN_BDD\CONV_SOAP_DOTNET_SIN_BDD\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.genruntimeconfig.cache
 D:\Descargas\CONV_SOAP_DOTNET_SIN_BDD\CONV_SOAP_DOTNET_SIN_BDD\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\ref\02. CLICON.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\02. CLICON.exe
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\02. CLICON.deps.json
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\02. CLICON.runtimeconfig.json
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\02. CLICON.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\02. CLICON.pdb
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.csproj.AssemblyReference.cache
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.AssemblyInfoInputs.cache
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.AssemblyInfo.cs
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.csproj.CoreCompileInputs.cache
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.sourcelink.json
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.csproj.Up2Date
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\refint\02. CLICON.dll
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.pdb
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\02. CLICON.genruntimeconfig.cache
+C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\obj\Debug\net8.0\ref\02. CLICON.dll

@@ -6,7 +6,7 @@
 using System;
 using System.CodeDom.Compiler;
 
-namespace MobilApp {
+namespace _02._CLIMOV {
 	#pragma warning disable IDE0002
 	/// <summary>
 	/// Android Resource Designer class.

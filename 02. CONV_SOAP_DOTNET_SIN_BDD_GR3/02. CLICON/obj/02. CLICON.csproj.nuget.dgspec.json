@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Descargas\\CONV_SOAP_DOTNET_SIN_BDD\\CONV_SOAP_DOTNET_SIN_BDD\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj": {}
+    "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj": {}
   },
   "projects": {
-    "D:\\Descargas\\CONV_SOAP_DOTNET_SIN_BDD\\CONV_SOAP_DOTNET_SIN_BDD\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj": {
+    "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Descargas\\CONV_SOAP_DOTNET_SIN_BDD\\CONV_SOAP_DOTNET_SIN_BDD\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
+        "projectUniqueName": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
         "projectName": "02. CLICON",
-        "projectPath": "D:\\Descargas\\CONV_SOAP_DOTNET_SIN_BDD\\CONV_SOAP_DOTNET_SIN_BDD\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
+        "projectPath": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
         "packagesPath": "C:\\Users\\bazur\\.nuget\\packages\\",
-        "outputPath": "D:\\Descargas\\CONV_SOAP_DOTNET_SIN_BDD\\CONV_SOAP_DOTNET_SIN_BDD\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\obj\\",
+        "outputPath": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,9 +43,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
