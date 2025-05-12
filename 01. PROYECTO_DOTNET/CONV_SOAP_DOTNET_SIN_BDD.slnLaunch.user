@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\02. CLIWEB.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

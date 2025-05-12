@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SERVIDOR", "..\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\01. SERVIDOR.csproj", "{605B7155-5B70-4634-A86E-F36A008BB397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CLICON", "..\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLICON\02. CLICON.csproj", "{26C4C824-A430-488D-B46B-FBDA376442F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CLIESC", "..\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLIESC\02. CLIESC.csproj", "{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CLIWEB", "..\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLIWEB\02. CLIWEB.csproj", "{18612007-4614-4A42-A843-FB9CCFF05855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CLIMOV", "..\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\02. CLIMOV\MobilApp\02. CLIMOV.csproj", "{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605B7155-5B70-4634-A86E-F36A008BB397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605B7155-5B70-4634-A86E-F36A008BB397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605B7155-5B70-4634-A86E-F36A008BB397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605B7155-5B70-4634-A86E-F36A008BB397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C4C824-A430-488D-B46B-FBDA376442F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C4C824-A430-488D-B46B-FBDA376442F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C4C824-A430-488D-B46B-FBDA376442F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C4C824-A430-488D-B46B-FBDA376442F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18612007-4614-4A42-A843-FB9CCFF05855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18612007-4614-4A42-A843-FB9CCFF05855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18612007-4614-4A42-A843-FB9CCFF05855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18612007-4614-4A42-A843-FB9CCFF05855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76E8D7C-A24E-4D90-92AA-4E2B00CE11BD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8F27E1-5C6F-458F-88B4-92893CF6195A}
+	EndGlobalSection
+EndGlobal

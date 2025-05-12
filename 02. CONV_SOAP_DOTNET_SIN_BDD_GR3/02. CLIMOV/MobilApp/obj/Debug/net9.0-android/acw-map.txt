@@ -1,0 +1,6 @@
+MobilApp.MainActivity, MobilApp;crc6483a180f4f9fb11ce.MainActivity
+MobilApp.MainActivity;crc6483a180f4f9fb11ce.MainActivity
+mobilapp.MainActivity;crc6483a180f4f9fb11ce.MainActivity
+MobilApp.com.edu.monster.vista.ConversionActivity, MobilApp;crc64dc7d25a355ecffc1.ConversionActivity
+MobilApp.com.edu.monster.vista.ConversionActivity;crc64dc7d25a355ecffc1.ConversionActivity
+mobilapp.com.edu.monster.vista.ConversionActivity;crc64dc7d25a355ecffc1.ConversionActivity

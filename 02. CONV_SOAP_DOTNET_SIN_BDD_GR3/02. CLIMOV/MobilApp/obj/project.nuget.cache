@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEh77Rlado4=",
+  "success": true,
+  "projectFilePath": "D:\\Descargas\\CONV_SOAP_DOTNET_SIN_BDD\\CONV_SOAP_DOTNET_SIN_BDD\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\02. CLIMOV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.10\\microsoft.extensions.objectpool.8.0.10.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.identitymodel.protocols.wstrust\\6.8.0\\microsoft.identitymodel.protocols.wstrust.6.8.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\6.8.0\\microsoft.identitymodel.tokens.saml.6.8.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.identitymodel.xml\\6.8.0\\microsoft.identitymodel.xml.6.8.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.duplex\\6.0.0\\system.servicemodel.duplex.6.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.federation\\6.0.0\\system.servicemodel.federation.6.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.http\\8.1.2\\system.servicemodel.http.8.1.2.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.netframingbase\\6.0.0\\system.servicemodel.netframingbase.6.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.nettcp\\6.0.0\\system.servicemodel.nettcp.6.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.primitives\\8.1.2\\system.servicemodel.primitives.8.1.2.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.servicemodel.security\\6.0.0\\system.servicemodel.security.6.0.0.nupkg.sha512",
+    "C:\\Users\\bazur\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

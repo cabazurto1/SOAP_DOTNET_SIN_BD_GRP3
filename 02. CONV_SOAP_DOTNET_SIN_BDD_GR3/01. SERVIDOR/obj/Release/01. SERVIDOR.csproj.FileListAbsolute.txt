@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\bin\_01.SERVIDOR.dll.config
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\bin\_01.SERVIDOR.dll
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\bin\_01.SERVIDOR.pdb
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\obj\Release\_01.SERVIDOR.dll
+C:\Users\andre\source\repos\CONV_SOAP_DOTNET_SIN_BDD\01. SERVIDOR\obj\Release\_01.SERVIDOR.pdb
