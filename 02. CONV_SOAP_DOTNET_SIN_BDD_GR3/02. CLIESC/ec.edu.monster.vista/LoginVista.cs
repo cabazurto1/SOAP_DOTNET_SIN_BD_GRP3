@@ -27,7 +27,7 @@ namespace _02._CLIESC.ec.edu.monster.vista
             String getUsuario = txtUsuario.Text;
             String getContrasena = txtContrasena.Text;
 
-            if (getUsuario.Equals("MONSTER") && getContrasena.Equals("MONSTER"))
+            if (getUsuario.Equals("MONSTER") && getContrasena.Equals("MONSTER9"))
             {
                 ConvertirVista convertirVista = new ConvertirVista();
                 convertirVista.Show();

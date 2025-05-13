@@ -7,7 +7,7 @@ namespace _02._CLIWEB.Pages
     {
         public IActionResult OnPost(string username, string password)
         {
-            if (username == "MONSTER" && password == "MONSTER")
+            if (username == "MONSTER" && password == "MONSTER9")
             {
                 return RedirectToPage("Convertir");
             }

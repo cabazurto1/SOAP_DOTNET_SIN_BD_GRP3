@@ -1,6 +1,0 @@
-_02._CLIMOV.MainActivity, 02. CLIMOV;crc642c11b4d50c748aa5.MainActivity
-_02._CLIMOV.MainActivity;crc642c11b4d50c748aa5.MainActivity
-_02._climov.MainActivity;crc642c11b4d50c748aa5.MainActivity
-_02._CLIMOV.com.edu.monster.vista.ConversionActivity, 02. CLIMOV;crc64e2abfd58528af72d.ConversionActivity
-_02._CLIMOV.com.edu.monster.vista.ConversionActivity;crc64e2abfd58528af72d.ConversionActivity
-_02._climov.com.edu.monster.vista.ConversionActivity;crc64e2abfd58528af72d.ConversionActivity
