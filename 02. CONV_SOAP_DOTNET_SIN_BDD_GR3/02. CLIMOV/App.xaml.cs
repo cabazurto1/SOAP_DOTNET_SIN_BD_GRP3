@@ -1,4 +1,4 @@
-﻿using _02._CLIMOV.com.edu.monster.vista;
+﻿using _02._CLIMOV.ec.edu.monster.vista;
 
 namespace MauiApp1
 {

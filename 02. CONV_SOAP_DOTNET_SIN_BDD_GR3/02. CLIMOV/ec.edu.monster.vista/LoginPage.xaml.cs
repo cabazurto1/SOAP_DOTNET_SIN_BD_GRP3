@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using _02._CLIMOV.com.edu.monster.controlador;
+using _02._CLIMOV.ec.edu.monster.controlador;
 
 
-namespace _02._CLIMOV.com.edu.monster.vista
+namespace _02._CLIMOV.ec.edu.monster.vista
 {
     public partial class LoginPage : ContentPage
     {

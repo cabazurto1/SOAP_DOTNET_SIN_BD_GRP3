@@ -1,8 +1,8 @@
 ﻿using System;
-using _02._CLIMOV.com.edu.monster.vista;
+using _02._CLIMOV.ec.edu.monster.vista;
 using ServiceReference1;
 
-namespace _02._CLIMOV.com.edu.monster.vista
+namespace _02._CLIMOV.ec.edu.monster.vista
 {
     public partial class ConversionPage : ContentPage
     {
