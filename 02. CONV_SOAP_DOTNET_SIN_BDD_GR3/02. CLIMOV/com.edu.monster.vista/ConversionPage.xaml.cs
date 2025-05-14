@@ -2,7 +2,6 @@
 using _02._CLIMOV.com.edu.monster.vista;
 using ServiceReference1;
 
-
 namespace _02._CLIMOV.com.edu.monster.vista
 {
     public partial class ConversionPage : ContentPage
@@ -16,22 +15,29 @@ namespace _02._CLIMOV.com.edu.monster.vista
         {
             try
             {
-                if (double.TryParse(entryValor.Text, out double valor) &&
+                string input = entryValor.Text?.Trim();
+
+                if (!string.IsNullOrWhiteSpace(input) &&
+                    input.Length <= 5 &&
+                    double.TryParse(input, out double valor) &&
                     pickerOrigen.SelectedItem != null &&
                     pickerDestino.SelectedItem != null)
                 {
-                    // Validar que las unidades no sean iguales
-                    if (pickerOrigen.SelectedItem.ToString() == pickerDestino.SelectedItem.ToString())
+                    string unidadOrigen = pickerOrigen.SelectedItem.ToString();
+                    string unidadDestino = pickerDestino.SelectedItem.ToString();
+
+                    if (unidadOrigen == unidadDestino)
                     {
-                        await DisplayAlert("Atención", "La unidad de origen y destino no pueden ser iguales.", "OK");
+                        lblResultado.Text = $"ℹ️ No se requiere conversión:\n\n" +
+                                            $"{valor} {unidadOrigen} equivale a {valor} {unidadDestino}.";
                         return;
                     }
 
                     var request = new Request
                     {
                         valor = valor,
-                        origen = ObtenerCodigoUnidad(pickerOrigen.SelectedItem.ToString()),
-                        destino = ObtenerCodigoUnidad(pickerDestino.SelectedItem.ToString())
+                        origen = ObtenerCodigoUnidad(unidadOrigen),
+                        destino = ObtenerCodigoUnidad(unidadDestino)
                     };
 
                     var client = new ConversionControladorClient(
@@ -41,17 +47,18 @@ namespace _02._CLIMOV.com.edu.monster.vista
                     var response = await client.convertirAsync(request);
 
                     lblResultado.Text = $"💡 Resultado:\n\n" +
-                                        $"{valor} {pickerOrigen.SelectedItem} = {response.valorConvertido} {pickerDestino.SelectedItem}\n\n" +
+                                        $"{valor} {unidadOrigen} = {response.valorConvertido} {unidadDestino}\n\n" +
                                         $"📝 {valor} {request.origen} son {response.valorConvertido} {request.destino}";
                 }
                 else
                 {
-                    await DisplayAlert("Error", "Completa todos los campos correctamente.", "OK");
+                    await DisplayAlert("Error", "Completa todos los campos correctamente. Asegúrate de ingresar un número válido con máximo 5 caracteres.", "OK");
                 }
             }
             catch (Exception ex)
             {
-                await DisplayAlert("Error", $"Excepción: {ex.Message}", "OK");
+                await DisplayAlert("Sin conexión", "No se pudo conectar al servidor. Verifica tu conexión a internet o intenta más tarde.", "OK");
+                lblResultado.Text = $"⚠️ Error de conexión:\n{ex.Message}";
             }
         }
 

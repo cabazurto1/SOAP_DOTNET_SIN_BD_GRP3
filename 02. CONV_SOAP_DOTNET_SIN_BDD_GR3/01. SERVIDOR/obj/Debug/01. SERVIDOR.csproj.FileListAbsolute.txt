@@ -19,3 +19,10 @@ C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_
 C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\01. SERVIDOR.csproj.CoreCompileInputs.cache
 C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\_01.SERVIDOR.dll
 C:\Users\bazur\Desktop\gittArq\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\_01.SERVIDOR.pdb
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\bin\_01.SERVIDOR.dll.config
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\bin\_01.SERVIDOR.dll
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\bin\_01.SERVIDOR.pdb
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\01. SERVIDOR.csproj.AssemblyReference.cache
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\01. SERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\_01.SERVIDOR.dll
+C:\Users\bazur\Desktop\Nueva carpeta (3)\SOAP_DOTNET_SIN_BD_GRP3\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\01. SERVIDOR\obj\Debug\_01.SERVIDOR.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vjauEdRwntw=",
+  "dgSpecHash": "Y6br8gfPAJ0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
+  "projectFilePath": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bazur\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\bazur\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",

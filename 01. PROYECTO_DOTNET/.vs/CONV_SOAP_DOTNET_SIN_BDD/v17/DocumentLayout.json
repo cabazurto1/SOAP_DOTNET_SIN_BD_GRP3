@@ -1,57 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\01. PROYECTO_DOTNET\\",
+  "WorkspaceRootPath": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\01. PROYECTO_DOTNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9AA32C4-418D-264C-BB13-6FC67B3494F5}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\02. CLIMOV.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. climov\\mobilapp\\resources\\layout\\conversion.axml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+      "AbsoluteMoniker": "D:0:0:{18612007-4614-4A42-A843-FB9CCFF05855}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\02. CLIWEB.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliweb\\pages\\convertir.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9AA32C4-418D-264C-BB13-6FC67B3494F5}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\02. CLIMOV.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. climov\\mobilapp\\resources\\layout\\login.axml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+      "AbsoluteMoniker": "D:0:0:{18612007-4614-4A42-A843-FB9CCFF05855}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\02. CLIWEB.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliweb\\pages\\convertir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9AA32C4-418D-264C-BB13-6FC67B3494F5}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\02. CLIMOV.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. climov\\mobilapp\\resources\\values\\styles.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+      "AbsoluteMoniker": "D:0:0:{18612007-4614-4A42-A843-FB9CCFF05855}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\02. CLIWEB.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliweb\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{605B7155-5B70-4634-A86E-F36A008BB397}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\01. servidor\\ec.edu.monster.servicio\\conversionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9AA32C4-418D-264C-BB13-6FC67B3494F5}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\02. CLIMOV.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. climov\\mobilapp\\com.edu.monster.vista\\conversionactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\ec.edu.monster.controlador\\conversioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9AA32C4-418D-264C-BB13-6FC67B3494F5}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\02. CLIMOV.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. climov\\mobilapp\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\ec.edu.monster.vista\\convertirvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\ec.edu.monster.vista\\convertirvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\ec.edu.monster.vista\\convertirvista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\02. cliesc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\ec.edu.monster.vista\\convertirvista.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{605B7155-5B70-4634-A86E-F36A008BB397}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\01. servidor\\ec.edu.monster.modelo\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18612007-4614-4A42-A843-FB9CCFF05855}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\02. CLIWEB.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliweb\\ec.edu.monster.controlador\\conversioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{605B7155-5B70-4634-A86E-F36A008BB397}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\01. servidor\\ec.edu.monster.modelo\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{605B7155-5B70-4634-A86E-F36A008BB397}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\01. servidor\\ec.edu.monster.controlador\\iconversioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26C4C824-A430-488D-B46B-FBDA376442F8}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. clicon\\ec.edu.monter.vista\\vistaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\ec.edu.monster.controlador\\conversioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\obj\\Debug\\net9.0-android\\__Microsoft.Android.Resource.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26C4C824-A430-488D-B46B-FBDA376442F8}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. clicon\\connected services\\conversionsevicio\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26C4C824-A430-488D-B46B-FBDA376442F8}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. clicon\\02. clicon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|01. SERVIDOR||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{605B7155-5B70-4634-A86E-F36A008BB397}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj|c:\\users\\bazur\\desktop\\gittarq\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\01. servidor\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
+      "AbsoluteMoniker": "D:0:0:{FAF2FF6C-10FD-4665-A2E8-996C3F275ED4}|..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj|c:\\users\\bazur\\desktop\\nueva carpeta (3)\\soap_dotnet_sin_bd_grp3\\02. conv_soap_dotnet_sin_bdd_gr3\\02. cliesc\\connected services\\conversionsevicio\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,213 +43,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Xamarin.Android.Aapt2.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Aapt2.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.39\\tools\\Xamarin.Android.Aapt2.targets",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-05-12T10:26:21.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.axml",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Login.axml",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Login.axml",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Login.axml",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Login.axml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-12T10:25:01.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConversionActivity.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\com.edu.monster.vista\\ConversionActivity.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\com.edu.monster.vista\\ConversionActivity.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\com.edu.monster.vista\\ConversionActivity.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\com.edu.monster.vista\\ConversionActivity.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAWwEUAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ConvertirVista.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.Designer.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.Designer.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.Designer.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T10:09:16.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T04:10:49.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\MainActivity.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\MainActivity.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\MainActivity.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Title": "ConvertirVista.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T10:03:16.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:59:31.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.servicio\\ConversionServicio.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.servicio\\ConversionServicio.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.servicio\\ConversionServicio.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.servicio\\ConversionServicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:50:46.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConversionControlador.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.controlador\\IConversionControlador.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.controlador\\IConversionControlador.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.controlador\\IConversionControlador.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.controlador\\IConversionControlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:50:42.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Convertir.cshtml",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowH0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:47:12.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Conversion.axml",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Conversion.axml",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Conversion.axml",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Conversion.axml",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\layout\\Conversion.axml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAowEIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-12T09:59:15.756Z",
+              "Title": "Convertir.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Pages\\Convertir.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:47:02.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "styles.xml",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\values\\styles.xml",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\values\\styles.xml",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\values\\styles.xml",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\Resources\\values\\styles.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-12T10:24:23.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VistaPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\ec.edu.monter.vista\\VistaPrincipal.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\ec.edu.monter.vista\\VistaPrincipal.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\ec.edu.monter.vista\\VistaPrincipal.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\ec.edu.monter.vista\\VistaPrincipal.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAuwEkAAAA2AAAAAAAAAA==",
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAL4AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:02:45.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConvertirVista.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:02:31.812Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Response.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Response.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Response.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:55:29.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Request.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Request.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Request.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\ec.edu.monster.modelo\\Request.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:55:21.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:43:14.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "02. CLIESC",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\02. CLIESC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T07:41:48.784Z",
-              "EditorCaption": ""
+              "Title": "ConvertirVista.resx",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.resx",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.resx",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.resx",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.vista\\ConvertirVista.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-14T04:12:43.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "ConversionControlador.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.controlador\\ConversionControlador.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.controlador\\ConversionControlador.cs",
               "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.controlador\\ConversionControlador.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.controlador\\ConversionControlador.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.controlador\\ConversionControlador.cs",
               "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\ec.edu.monster.controlador\\ConversionControlador.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:41:59.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:45:05.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "__Microsoft.Android.Resource.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\obj\\Debug\\net9.0-android\\__Microsoft.Android.Resource.Designer.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\obj\\Debug\\net9.0-android\\__Microsoft.Android.Resource.Designer.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\obj\\Debug\\net9.0-android\\__Microsoft.Android.Resource.Designer.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIMOV\\MobilApp\\obj\\Debug\\net9.0-android\\__Microsoft.Android.Resource.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ConversionControlador.cs",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\ec.edu.monster.controlador\\ConversionControlador.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\ec.edu.monster.controlador\\ConversionControlador.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\ec.edu.monster.controlador\\ConversionControlador.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIWEB\\ec.edu.monster.controlador\\ConversionControlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:40:09.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:55:05.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Reference.cs",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\Connected Services\\ConversionSevicio\\Reference.cs",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\Connected Services\\ConversionSevicio\\Reference.cs",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\Connected Services\\ConversionSevicio\\Reference.cs",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\Connected Services\\ConversionSevicio\\Reference.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAQwL4AAABSAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\Connected Services\\ConversionSevicio\\Reference.cs",
+              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\Connected Services\\ConversionSevicio\\Reference.cs",
+              "ToolTip": "C:\\Users\\bazur\\Desktop\\Nueva carpeta (3)\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\Connected Services\\ConversionSevicio\\Reference.cs",
+              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLIESC\\Connected Services\\ConversionSevicio\\Reference.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwMMAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T07:23:56.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "02. CLICON",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\02. CLICON\\02. CLICON.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T07:23:41.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "01. SERVIDOR",
-              "DocumentMoniker": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj",
-              "RelativeDocumentMoniker": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj",
-              "ToolTip": "C:\\Users\\bazur\\Desktop\\gittArq\\SOAP_DOTNET_SIN_BD_GRP3\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj",
-              "RelativeToolTip": "..\\02. CONV_SOAP_DOTNET_SIN_BDD_GR3\\01. SERVIDOR\\01. SERVIDOR.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-12T07:09:05.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T03:44:37.58Z"
             }
           ]
         }

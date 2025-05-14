@@ -22,7 +22,6 @@ namespace _02._CLIMOV.com.edu.monster.vista
         {
             mostrarContrasena = !mostrarContrasena;
             entryContrasena.IsPassword = !mostrarContrasena;
-            btnTogglePassword.Source = mostrarContrasena ? "eye_off.png" : "eye.png";
         }
 
         private void OnLoginClicked(object sender, EventArgs e)

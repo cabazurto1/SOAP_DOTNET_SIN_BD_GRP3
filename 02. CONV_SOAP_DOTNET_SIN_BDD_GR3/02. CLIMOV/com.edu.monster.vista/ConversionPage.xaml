@@ -33,16 +33,16 @@
                     </Label>
                 </Frame>
 
-                <!-- Entrada del valor -->
-                <Entry x:Name="entryValor"
-                       Placeholder="Ingrese el valor numérico"
-                       Keyboard="Numeric"
-                       BackgroundColor="#FFFFFF"
-                       TextColor="#333"
-                       HeightRequest="45"
-                       Margin="0,10"/>
 
-                <!-- Título: Unidad de origen -->
+                <Entry x:Name="entryValor"
+                   Placeholder="Ingrese el valor numérico"
+                   Keyboard="Numeric"
+                   MaxLength="5"
+                   BackgroundColor="#FFFFFF"
+                   TextColor="#333"
+                   HeightRequest="45"
+                   Margin="0,10" />
+
                 <Frame BackgroundColor="#faa38e"
                        CornerRadius="6"
                        Padding="5"
@@ -70,7 +70,6 @@
                     </Picker.ItemsSource>
                 </Picker>
 
-                <!-- Título: Unidad de destino -->
                 <Frame BackgroundColor="#faa38e"
                        CornerRadius="6"
                        Padding="5"
@@ -98,7 +97,7 @@
                     </Picker.ItemsSource>
                 </Picker>
 
-                <!-- Botón de conversión -->
+
                 <Button Text="Convertir"
                         Clicked="OnConvertirClicked"
                         BackgroundColor="#4DD0E1"
@@ -107,15 +106,20 @@
                         CornerRadius="10"
                         HeightRequest="50" />
 
-                <!-- Resultado -->
-                <Label x:Name="lblResultado"
-                       Text="Resultado aquí"
-                       FontSize="18"
-                       TextColor="#007BA7"
-                       HorizontalOptions="Center"
-                       FontAttributes="Italic"
-                       HorizontalTextAlignment="Center"
-                       Margin="0,10" />
+                <Frame BackgroundColor="White"
+                       CornerRadius="10"
+                       Padding="15"
+                       HasShadow="True"
+                       IsVisible="True">
+                       <Label x:Name="lblResultado"
+                           Text="Resultado aquí"
+                           FontSize="16"
+                           TextColor="#007BA7"
+                           HorizontalTextAlignment="Center"
+                           VerticalTextAlignment="Center"
+                           FontAttributes="Italic" />
+                </Frame>
+
 
                 <!-- Botón de salir -->
                 <Button Text="Salir"

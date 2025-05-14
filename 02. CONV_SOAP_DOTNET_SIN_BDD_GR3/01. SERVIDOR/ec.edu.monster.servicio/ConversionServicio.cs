@@ -10,7 +10,13 @@ namespace _01.SERVIDOR.ec.edu.monster.servicio
         public double convertirTemperatura(double valor, string origen, string destino)
         {
             double valorConvertido = 0;
-            if (origen.Equals("C") && destino.Equals("F"))
+
+            if (origen.Equals(destino))
+            {
+                // No se realiza conversión si la unidad es la misma
+                valorConvertido = valor;
+            }
+            else if (origen.Equals("C") && destino.Equals("F"))
             {
                 valorConvertido = (valor * 9 / 5) + 32;
             }
@@ -34,7 +40,9 @@ namespace _01.SERVIDOR.ec.edu.monster.servicio
             {
                 valorConvertido = valor * 9 / 5 - 459.67;
             }
-            return valorConvertido;
+
+            // Redondear a 3 decimales
+            return Math.Round(valorConvertido, 3);
         }
     }
 }

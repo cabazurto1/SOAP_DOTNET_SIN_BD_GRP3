@@ -102,12 +102,17 @@
         <button type="submit" class="btn btn-convertir">Convertir</button>
     </form>
 
-    @if (Model.ResponseData != null)
-    {
-        <div class="alert alert-success text-center mt-3">
-            <strong>Resultado:</strong> @Model.ResponseData.mensaje
-        </div>
-    }
+@if (!string.IsNullOrWhiteSpace(Model.ResultadoMensaje))
+{
+    var tipoMensaje = Model.ResultadoMensaje.StartsWith("❌") || Model.ResultadoMensaje.StartsWith("⚠️")
+        ? "alert-danger"
+        : "alert-success";
+
+    <div class="alert @tipoMensaje mt-3">
+        <pre>@Model.ResultadoMensaje</pre>
+    </div>
+}
+
 </div>
 
 <script>
